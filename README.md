@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="README.ru.md">🇷🇺 Русский</a> · <strong>🇬🇧 English</strong>
+</p>
+
 <h1 align="center">👋 Hi, I'm Nikolay</h1>
 <h3 align="center">Senior Fullstack / Lead Frontend TypeScript Developer</h3>
 

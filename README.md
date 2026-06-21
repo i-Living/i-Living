@@ -18,7 +18,7 @@
 
 Senior Fullstack / Lead Frontend TypeScript developer with 7+ years of commercial experience. Focused on modern web: React, Next.js, Node.js, TypeScript. Based in St. Petersburg, working remotely.
 
-I design monolith and microservice architectures, build BFF layers, and integrate AI/LLM into production workflows. English — B2, comfortable with negotiations and code review.
+I design monolith and microservice architectures, and integrate AI/LLM into production workflows. English — B2, comfortable with negotiations and code review.
 
 ---
 

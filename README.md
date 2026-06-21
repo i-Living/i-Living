@@ -28,11 +28,11 @@ I design monolith and microservice architectures, build BFF layers, and integrat
 
 **Frontend** · React · Next.js · Vite · Redux · react-hook-form · shadcn/ui · CSS animations · WebSocket
 
-**Backend / API** · Node.js · Bun · Hono · Next.js API Routes · BFF (Backend‑for‑Frontend)
+**Backend / API** · Node.js · Bun · Hono · Prisma
 
 **Database** · PostgreSQL · Prisma ORM · SQLite · Redis
 
-**AI / LLM** · Claude (OpenRouter API) · Hermes Agent · Copilot · OpenRouter API · Qwen3‑Coder + Ollama
+**AI / LLM** · Opencode · Hermes Agent · OpenRouter API · LM Studio
 
 **DevOps** · Docker · nginx · Let's Encrypt SSL · CI/CD
 
@@ -44,8 +44,8 @@ I design monolith and microservice architectures, build BFF layers, and integrat
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**CognitiveLens**](https://cognitivelens.ru) | AI platform for visual information analysis. LLM integration, computer vision, smart workflows | Next.js · TypeScript · AI/LLM · PostgreSQL |
-| [**TimeBox**](https://timeboxcalendar.ru) | Time planning & task management service. Calendar, tracking, team collaboration | React · Node.js · BFF · WebSocket |
+| [**CognitiveLens**](https://cognitivelens.ru) | AI platform for visual information analysis. LLM integration, computer vision, smart workflows | React · TypeScript · AI/LLM · PostgreSQL |
+| [**TimeBox**](https://timeboxcalendar.ru) | Time planning & task management service. Calendar, tracking, team collaboration | Preact · Vite · PWA · TypeScript |
 | [**DevYourMind**](https://devyourmind.ru) | Personal portfolio website | Vite · Preact · Tailwind CSS · TypeScript |
 | [**react-docgen-ai**](https://github.com/i-Living/react-docgen-ai) | Advanced CLI tool for automatic documentation and annotation of React projects using LLM | TypeScript · LLM · CLI |
 

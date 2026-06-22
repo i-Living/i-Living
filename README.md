@@ -44,8 +44,8 @@ I design monolith and microservice architectures, and integrate AI/LLM into prod
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**CognitiveLens**](https://cognitivelens.ru) | AI platform for visual information analysis. LLM integration, computer vision, smart workflows | React · TypeScript · AI/LLM · PostgreSQL |
-| [**TimeBox**](https://timeboxcalendar.ru) | Time planning & task management service. Calendar, tracking, team collaboration | Preact · Vite · PWA · TypeScript |
+| [**CognitiveLens**](https://cognitivelens.ru) | System for intelligent text analysis with a role-based system powered by LLM | React · TypeScript · AI/LLM · PostgreSQL |
+| [**TimeBox**](https://timeboxcalendar.ru) | A minimal PWA for booking free time slots — no server, no registration | Preact · Vite · PWA · TypeScript |
 | [**DevYourMind**](https://devyourmind.ru) | Personal portfolio website | Vite · Preact · Tailwind CSS · TypeScript |
 | [**react-docgen-ai**](https://github.com/i-Living/react-docgen-ai) | Advanced CLI tool for automatic documentation and annotation of React projects using LLM | TypeScript · LLM · CLI |
 

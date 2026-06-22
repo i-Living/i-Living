@@ -56,7 +56,7 @@ I design monolith and microservice architectures, and integrate AI/LLM into prod
 <p align="center">
   <a href="https://github.com/i-Living"><img src="https://img.shields.io/badge/GitHub-i--Living-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://t.me/NickShush"><img src="https://img.shields.io/badge/Telegram-@NickShush-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
-  <a href="mailto:nickandsh@gmail.com"><img src="https://img.shields.io/badge/Email-nickandsh%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:nikandsh@gmail.com"><img src="https://img.shields.io/badge/Email-nikandsh%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
